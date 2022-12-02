@@ -1,2 +1,2 @@
 # examples
-Example coding
+Example coding of AAJ
